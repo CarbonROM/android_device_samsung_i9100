@@ -21,12 +21,22 @@
 # lines, full and toro, hence its name.
 #
 
+# Screen Resolution for the Bootanimation
+TARGET_SCREEN_HEIGHT := 800
+TARGET_SCREEN_WIDTH := 480
+
+# Inherit Carbon GSM telephony parts
+$(call inherit-product, vendor/carbon/config/gsm.mk)
+
+# Inherit Carbon product configuration
+$(call inherit-product, vendor/carbon/config/common.mk)
+
 # Inherit from those products. Most specific first.
-$(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
+$(call inherit-product, $(SRC_TARGET_DIR)/product/aosp_base_telephony.mk)
 $(call inherit-product, device/samsung/i9100/i9100.mk)
 
 # Discard inherited values and use our own instead.
-PRODUCT_NAME := full_i9100
+PRODUCT_NAME := carbon_i9100
 PRODUCT_DEVICE := i9100
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
