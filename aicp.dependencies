@@ -5,9 +5,9 @@
         "branch":      "n7.1"
     },
     {
-        "repository": "Cyanogenmod/android_kernel_samsung_smdk4412",
+        "repository": "dragonGR/android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "branch":      "cm-14.1"
+        "branch":      "n7.1"
     },
     {
         "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
