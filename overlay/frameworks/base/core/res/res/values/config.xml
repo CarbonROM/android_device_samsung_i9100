@@ -170,7 +170,4 @@
          config to 7. -->
     <integer name="config_deviceHardwareWakeKeys">65</integer>
 
-    <!-- Disable the home key unlock setting -->
-    <!-- <bool name="config_disableHomeUnlockSetting">false</bool> -->
-
 </resources>
