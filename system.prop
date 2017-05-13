@@ -21,3 +21,5 @@ ro.device.gpu=Mali-400MP4
 ro.device.rear_cam=8 MP
 ro.device.front_cam=2.0 MP
 ro.device.screen_res=480x800
+
+dalvik.vm.dex2oat-Xmx=256m
