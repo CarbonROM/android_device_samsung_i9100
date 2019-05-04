@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher DF6371FD 1556928359 -0300\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_samsung_i9100.git\nnonce 1556928359-F011FAEF759D0767B6AE2E74778FAC4EC351EDC3\n\n0000000000000000000000000000000000000000 14821fbfdf68aa2c0b274ebc17cd2ccdd75b5cad refs/for/cr-7.0\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEtIra/48LQyVKBN0XaH/CI99jcf0FAlzM12cACgkQaH/CI99j\ncf2ouwf/SUzG+8I3rSWFNj2DOt+d55OYr/DKW09OnhLG4Bh2MGzNnIS2p0vh9Y6H\nw2XAFvy8e9s5uKCmBNlCowYdSq9Wc1vOgTtfVcWsazF6dfqFsID6W/QGrpYWyd3X\nepDrPYDMfB84tuorqLVuGxQr6b/wqKNcrjgisGpoVIYvQQQOwFhvWV9Du+rayN3d\nvV7yAXFhSngxja2fzz7NflktohpnIfbRDrWWqVnCRTml9M6IWbPIYOO6KXjC5TTK\nlTRiCtBZdG3cv7TTNJTrbWqO8QUCK1zqn1Sc0Ye85xCMdjw17VpcUmTexi8A12x3\nLAHdoAKR1FLR+70qfM3Xs3iLhsGlRw\u003d\u003d\n\u003dXfQb\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
