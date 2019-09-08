@@ -1,0 +1,26 @@
+[
+    {
+        "repository":   "CarbonROM/android_device_samsung_galaxys2-common",
+        "target_path":  "device/samsung/galaxys2-common",
+        "remote":  "gh",
+        "revision":  "cr-7.0"
+    },
+    {
+        "repository":   "CarbonROM/android_hardware_samsung",
+        "target_path":  "hardware/samsung",
+        "remote":  "gh",
+        "revision":  "cr-7.0"
+    },
+    {
+        "repository":   "CarbonROM/android_kernel_samsung_smdk4412",
+        "target_path":  "kernel/samsung/smdk4412",
+        "remote":  "gh",
+        "revision":  "cr-7.0"
+    },
+    {
+        "repository":   "LineageOS/android_external_connectivity",
+        "target_path":  "external/connectivity",
+        "remote":  "gh",
+        "revision":  "lineage-16.0"
+    }
+]
